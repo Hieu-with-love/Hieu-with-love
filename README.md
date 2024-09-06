@@ -1,9 +1,9 @@
 # 💫About Me :
-Hi there 👋
-🌱I'm currently studying at University of Education and Technology.
-🔭 I have a passion for discovering new things.
-😄 Be so good that no one dares ignore you.
-💬 Ask me what in the field of software development !
+Hi there 👋  
+🌱 I'm currently studying at University of Education and Technology.  
+🔭 I have a passion for discovering new things.  
+😄 Be so good that no one dares ignore you.  
+💬 Ask me what in the field of software development !  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/conduong.cuoj.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hiuu_ne/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@hieutrantrung1539) 
