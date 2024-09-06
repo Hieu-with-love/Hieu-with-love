@@ -2,7 +2,7 @@
 Hi there 👋  
 🌱 I'm currently studying at University of Education and Technology.  
 🔭 I have a passion for discovering new things.  
-😄 Be so good that no one dares ignore you.  
+😄 "Be so good that no one dares ignore you".  
 💬 Ask me what in the field of software development !  
 
 ## 🌐Socials
